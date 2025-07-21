@@ -1,6 +1,8 @@
 <h1 align="center">hi, im pumulo</h1>
 <h3 align="center">A passionate Developer from Zambia 🇿🇲</h3>
+
 ---
+
 🌱 I’m into **TypeScript, Next.js**, etc and passionate about learning new things every day.
 
 👯 I’m looking to **collaborate on Open Source and Startup Projects**
@@ -20,6 +22,7 @@
 📞 Contact me through my email: **pumulomamubiana@gmail.com**
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
