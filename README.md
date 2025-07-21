@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there I'm Pumulo 👋🏽😁
 
+## A passionate Developer from Zambia🇿🇲
+
+🌱 I’m into TypeScript, Next.js, etc and passionate about learning new things every day.
+👯 I’m looking to collaborate on Open Source and Startup Projects
+🤝 I’m open to freelance or full-time opportunities
+💬 Love React, Tailwind CSS, using libraries like Ant Design and Web Development in general.
+⚡ Fun fact: I enjoy learning UI/UX design and watching tech videos
+🤔 Another fun fact: Working on a full car buying and selling platform built on Next js with typescript, tailwindcss, antd, framermotion and gsap to mention a few, it has a Supabase db and I am going to make it live soon...
+🌐 Interested in networking with other developers and learning with/from them.
+📞 Contact me through my email: pumulomamubiana@gmail.com
 <!--
 **NeXTendo/NeXTendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
