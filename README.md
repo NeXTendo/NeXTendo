@@ -11,7 +11,7 @@
 
 💬 Love **React, Tailwind CSS, using libraries like Ant Design and Web Development** in general.
 
-⚡ Fun fact: I enjoy learning *UI/UX* design and watching tech videos
+⚡ Fun fact: I enjoy learning and doing *UI/UX* design and watching tech videos, can't sleep if it's not perfect.😅
 
 🤔 Another fun fact: Working on a **full car buying and selling platform** built on *Next js with typescript, tailwindcss, antd, framermotion and gsap to mention a few, it has a Supabase db* and I am going to make it live soon...
 
